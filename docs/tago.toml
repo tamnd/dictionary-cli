@@ -1,0 +1,10 @@
+title       = "dict"
+baseURL     = "https://dictionary-cli.tamnd.com/"
+description = "Look up word definitions, synonyms and phonetics"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/dictionary-cli"
