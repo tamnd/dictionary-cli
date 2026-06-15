@@ -19,6 +19,9 @@ import (
 	"time"
 )
 
+// Host is the canonical hostname for the Free Dictionary API.
+const Host = "api.dictionaryapi.dev"
+
 // DefaultUserAgent identifies the client to the API.
 const DefaultUserAgent = "dict/dev (+https://github.com/tamnd/dictionary-cli)"
 
